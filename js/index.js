@@ -87,4 +87,6 @@ $(function () {
     });
     $(window).trigger("resize");
 
+    
+
 });
